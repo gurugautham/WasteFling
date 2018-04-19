@@ -1,0 +1,44 @@
+Recyclables:
+book
+can
+cardboard
+cereal
+cup
+egg carton
+glass bottle
+metal
+paper plate
+paper
+plastic bottle
+spork
+Garbage:
+cd
+ceramic
+cheese
+cloth hanger
+disposable diaper
+garden hose
+iron box
+litterbox
+meat
+microwave
+mirror
+packing peanut
+styrafoam
+Compostables:
+apple core
+bok choy
+coffee filter
+egg shell
+fruit rind
+grain
+looseleaf tea
+newspaper
+tea bag
+tomato
+twig
+vine
+yard waste
+Hazardous:
+battery
+paint
