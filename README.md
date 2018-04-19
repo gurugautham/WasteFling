@@ -35,7 +35,7 @@ File > Import > Existing Project into Workspace
 
 ## Contributing
 
-Please read [CONTRIBUTING.md](<insert link here>) for details on our code of conduct, and the process for submitting pull requests to us.
+Please read [CONTRIBUTING.md](https://github.com/gurugautham/WasteFling/blob/master/CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests to us.
 
 ## Authors
 
