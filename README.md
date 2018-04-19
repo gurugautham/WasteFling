@@ -1,6 +1,6 @@
 # WasteFling
 
-A java game which encourages the sorting of waste in the respective categories through the game of basketball.
+A java game which encourages the sorting of waste in the respective categories through the game of basketball. Look at the [demo](https://www.youtube.com/watch?v=R1LTISExtOc) for information on the code and how the game is supposed to be played.
 
 ### Prerequisites
 
