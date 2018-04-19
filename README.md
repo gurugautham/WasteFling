@@ -4,7 +4,7 @@ A java game which encourages the sorting of waste in the respective categories t
 
 ### Prerequisites
 
-What things you need to install the software and how to install them
+Things you need to install the software
 
 * Java SE 7 or higher
 * An IDE to make running the code simple (Optional - Eclipse will be used for the instructions below)
