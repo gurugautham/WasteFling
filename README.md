@@ -43,7 +43,7 @@ Please read [CONTRIBUTING.md](https://github.com/gurugautham/WasteFling/blob/mas
 
 ## License
 
-This project is licensed under the GNU APGL License - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the GNU APGL v3.0 License - see the [LICENSE.md](LICENSE.md) file for details
 
 ## Acknowledgments
 
